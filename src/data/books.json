@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780061120084"
+  },
+  {
+    "id": 2,
+    "name": "1984",
+    "author": "George Orwell",
+    "isbn": "9780451524935"
+  },
+  {
+    "id": 3,
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565"
+  },
+  {
+    "id": 4,
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "9780141439518"
+  },
+  {
+    "id": 5,
+    "name": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "isbn": "9780156031516"
+  },
+  {
+    "id": 6,
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "9780316769480"
+  },
+  {
+    "id": 7,
+    "name": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "isbn": "9780061120084"
+  },
+  {
+    "id": 8,
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780345339683"
+  },
+  {
+    "id": 9,
+    "name": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn": "9780061120084"
+  },
+  {
+    "id": 10,
+    "name": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "isbn": "9780439023528"
+  }
+]

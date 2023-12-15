@@ -1,0 +1,18 @@
+### GET all books / or Search a query
+
+GET http://localhost:3000/books/?query=the
+
+### GET book by ID
+
+GET http://localhost:3000/books/5
+
+### POST a new book
+
+POST http://localhost:3000/books/
+Content-Type: application/json
+
+{
+  "name": "New Book5",
+  "author": "New Author5",
+  "isbn": "1234567890"
+}
